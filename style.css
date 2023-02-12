@@ -262,7 +262,7 @@ section .title::after{
     background:none;
 }
 .about{
-    background: url(desktop-wallpaper-cute-anime-boy-phone-cute-manga-boy-thumbnail.jpg);
+    background: url(/12.jpg);
     
 }
 
@@ -315,7 +315,7 @@ section .title::after{
 
 /* skills section styling */
 .skills{
-    background: url(10.webp) no-repeat center;
+    background: url(/10.webp) no-repeat center;
     background-size: cover;
 }
 .skills .title::after{
